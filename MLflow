@@ -1,0 +1,4 @@
+
+#kill mlflow ui that is already running
+lsof -i :5000
+
