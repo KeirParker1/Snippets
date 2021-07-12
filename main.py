@@ -1,5 +1,5 @@
 """
-CODE SNIPPETS
+PYTHON SNIPPETS
 """
 
 def func(args):
